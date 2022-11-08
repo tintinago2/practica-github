@@ -1,1 +1,3 @@
 Hare un pequeño resumen de lo aprendido en el submodulo
+He aprendido a usar los diferentes comandos de git en los archivos 
+Lo he aprendido a usar adecuadamente depende de lo que necesite
